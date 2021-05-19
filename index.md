@@ -108,10 +108,3 @@ Also, he developed solutions for inventory control, product tracking, barcode ha
 **Internship and Junior Developer**, Outra Coisa (former Polo Marte), Rio de Janeiro
 
 Over the internship, he worked on the development of postozero.com, in which he had an every-day contact with technologies such as Git, Amazon Web Services, CoffeeScript and learned about leadership, project management and tracking, agile methodologies, and web services (API management).
-
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
