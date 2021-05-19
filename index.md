@@ -50,6 +50,11 @@ He is not an expert but have done something in: C, C#, Java, Lua, R, Android (Ja
 - Teacher assistant on Calculus and Programming classes
 - CNPq researcher on Computer Graphics, supported by the Math Dept.
 
+`2011-2012`
+**Institut supérieur de mécanique de Paris, France**
+- Exchange student
+- Industrial Engineering
+
 `2017-2019`
 **Pontifical Catholic University of Rio de Janeiro, Brazil**
 - Master's degree on optimization and automated reasoning
@@ -57,11 +62,6 @@ He is not an expert but have done something in: C, C#, Java, Lua, R, Android (Ja
 - Obtained the scholarship "Mestrado Nota 10", by FAPERJ, which was given to the 2 best students of the department
 - Researched the application of data science in agribusiness and weather data
 - Researched the application of machine learning to develop an automated poker player
-
-`2011-2012`
-**Institut supérieur de mécanique de Paris, France**
-- Exchange student
-- Industrial Engineering
 
 
 ### Occupation
