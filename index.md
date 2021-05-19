@@ -2,7 +2,7 @@
 ### Software Engineer
 
 - [alexandremcost@gmail.com](mailto:alexandremcost@gmail.com)
-- [linkedin.com/in/alexandre-marangoni](https://www.linkedin.com/in/alexandre-marangoni)  
+- [linkedin.com/in/alexandre-marangoni](https://www.linkedin.com/in/alexandre-marangoni)
 - [github.com/alexandremcosta](https://github.com/alexandremcosta)
 
 
@@ -108,3 +108,5 @@ Also, he developed solutions for inventory control, product tracking, barcode ha
 **Internship and Junior Developer**, Outra Coisa (former Polo Marte), Rio de Janeiro
 
 Over the internship, he worked on the development of postozero.com, in which he had an every-day contact with technologies such as Git, Amazon Web Services, CoffeeScript and learned about leadership, project management and tracking, agile methodologies, and web services (API management).
+
+[PDF version](index.pdf)
