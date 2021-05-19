@@ -1,12 +1,12 @@
 # Alexandre Marangoni Costa
-## Software Engineer
+### Software Engineer
 
 - [alexandremcost@gmail.com](mailto:alexandremcost@gmail.com)
 - [linkedin.com/in/alexandre-marangoni](https://www.linkedin.com/in/alexandre-marangoni)  
 - [github.com/alexandremcosta](https://github.com/alexandremcosta)
 
 
-## Bio
+### Bio
 
 Alexandre wrote his first codes at 14 years old. First an IRC client (from mIRC), then a game built on Open Tibia Server. After getting the bachelor degree in Computer Engineering at PUC-Rio, he worked for 8 years as a software engineer.
 
@@ -29,7 +29,7 @@ He has deep interest in Erlang/OTP, algorithms, optimization and machine learnin
 He is not an expert but have done something in: C, C#, Java, Lua, R, Android (Java), Ionic Framework, React, VueJS, Angular.
 
 
-## Interests
+### Interests
 
 - Server-side applications
 - Detect bottlenecks to scale
@@ -40,7 +40,7 @@ He is not an expert but have done something in: C, C#, Java, Lua, R, Android (Ja
 - Machine learning
 - Recruiting and Mentoring
 
-## Education
+### Education
 
 `2008-2013`
 **Pontifical Catholic University of Rio de Janeiro, Brazil**
@@ -63,7 +63,7 @@ He is not an expert but have done something in: C, C#, Java, Lua, R, Android (Ja
 - Industrial Engineering
 
 
-## Occupation
+### Occupation
 
 `March 2019 - Present`
 **Software Engineer**, Firework, Redwood City
