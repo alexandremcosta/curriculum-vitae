@@ -9,43 +9,40 @@
 - [github.com/alexandremcosta](https://github.com/alexandremcosta)
 
 
-<details>
-  <summary>
-    Alexandre wrote his first codes at 14 years old. First an IRC client (from mIRC), then a game built on Open Tibia Server. After, he got a bachelor degree in Computer Engineering at PUC-Rio, and works as a Software Engineer since 2012. (click here to expand)
-  </summary>
+### Bio
 
-  <p>
-    He got a scholarship to spend 2 years researching machine learning and applying it to meteorological data and computer poker agents, during a master degree at PUC-Rio.
-
-  <p>
-    He wrote a framework in Ruby and Python programming languages, to support the creation of Poker bots that can learn as they play against each other. With the framework, he created 5 different players and researched how their learning rate differed. The process was detailed in this [dissertation](https://www.maxwell.vrac.puc-rio.br/48011/48011.PDF).
-  </p>
-
-  <p>
-    Founded 2 startups along the way.
-  </p>
-
-  <p>
-    In 2019, he moved to the silicon valley to work as a Senior Software Engineer at [Firework](https://fw.tv). After 3 months, he was declared the backend leader, responsible for critical failures, optimizations, reviews on all modifications to the backend source code, recruiting and onboarding new backend developers.
-  </p>
-
-  <p>
-    He scaled the Firework server from 10 to 10000 requests/second, applying multiple optimization techniques. He wrote the cache system, responsible to keep the system stable while serving apps and websites of the biggest brazilian TV show on its highest peaks.
-  </p>
-
-  <p>
-    One of his contributions to opensource code got the attention from Ericsson engineers. Later, he partnered with them to maintain packages used to power 2G, 3G, 4G and 5G networks, of companies such as AT&T, Deutche Telecom, China Telecom, Vodaphone, and many more. The packages are: [eredis](https://github.com/Nordix/eredis) and [eredis_cluster](https://github.com/Nordix/eredis_cluster).
-  </p>
-
-  <p>
-    He has professional experience in Elixir, Phoenix, Erlang, Ruby, Rails, Linux, SQL, Redis, AWS ecosystem, Python and Javascript. He also knows server maintenance, but is more interested in reading and writing software.
-  </p>
-
-  <p>
-    He is not an expert but have done something in: C, C#, Java, Lua, R, Android (Java), Ionic Framework, React, VueJS, Angular.
-  </p>
-</details>
-
+<section class="bio">
+  <details>
+    <summary>
+      Alexandre wrote his first codes at 14 years old. First an IRC client (from mIRC), then a game built on Open Tibia Server. After, he got a bachelor degree in Computer Engineering at PUC-Rio, and works as a Software Engineer since 2012. <span style="cursor: pointer; color: #0366d6;">Click here to expand bio.</span>
+    </summary>
+    <br>
+    <p>
+      He got a scholarship to spend 2 years researching machine learning and applying it to meteorological data and computer poker agents, during a master degree at PUC-Rio.
+    </p>
+    <p>
+      He wrote a framework in Ruby and Python programming languages, to support the creation of Poker bots that can learn as they play against each other. With the framework, he created 5 different players and researched how their learning rate differed. The process was detailed in this [dissertation](https://www.maxwell.vrac.puc-rio.br/48011/48011.PDF).
+    </p>
+    <p>
+      Founded 2 startups along the way.
+    </p>
+    <p>
+      In 2019, he moved to the silicon valley to work as a Senior Software Engineer at [Firework](https://fw.tv). After 3 months, he was declared the backend leader, responsible for critical failures, optimizations, reviews on all modifications to the backend source code, recruiting and onboarding new backend developers.
+    </p>
+    <p>
+      He scaled the Firework server from 10 to 10000 requests/second, applying multiple optimization techniques. He wrote the cache system, responsible to keep the system stable while serving apps and websites of the biggest brazilian TV show on its highest peaks.
+    </p>
+    <p>
+      One of his contributions to opensource code got the attention from Ericsson engineers. Later, he partnered with them to maintain packages used to power 2G, 3G, 4G and 5G networks, of companies such as AT&T, Deutche Telecom, China Telecom, Vodaphone, and many more. The packages are: [eredis](https://github.com/Nordix/eredis) and [eredis_cluster](https://github.com/Nordix/eredis_cluster).
+    </p>
+    <p>
+      He has professional experience in Elixir, Phoenix, Erlang, Ruby, Rails, Linux, SQL, Redis, AWS ecosystem, Python and Javascript. He also knows server maintenance, but is more interested in reading and writing software.
+    </p>
+    <p>
+      He is not an expert but have done something in: C, C#, Java, Lua, R, Android (Java), Ionic Framework, React, VueJS, Angular.
+    </p>
+  </details>
+</section>
 
 ### Interests
 
