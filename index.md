@@ -12,19 +12,17 @@ Alexandre wrote his first codes at 14 years old. First an IRC client (from mIRC)
 
 He got a scholarship to spend 2 years researching machine learning and applying it to meteorological data and computer poker agents, during a master degree at PUC-Rio.
 
-He wrote a framework in Ruby and Python programming languages, to support the creation of Poker bots that can learn as they play against each other. With the framework, he created 5 different players and researched how their learning rate differed. The process was detailed in this dissertation: https://www.maxwell.vrac.puc-rio.br/48011/48011.PDF.
+He wrote a framework in Ruby and Python programming languages, to support the creation of Poker bots that can learn as they play against each other. With the framework, he created 5 different players and researched how their learning rate differed. The process was detailed in this [dissertation](https://www.maxwell.vrac.puc-rio.br/48011/48011.PDF).
 
 Founded 2 startups along the way.
 
-In 2019, he moved to the silicon valley to work as a Senior Software Engineer at Firework (https://fw.tv). After 3 months, he was declared the backend leader, responsible for critical failures, optimizations, reviews on all modifications to the backend source code, recruiting and onboarding new backend developers.
+In 2019, he moved to the silicon valley to work as a Senior Software Engineer at [Firework](https://fw.tv). After 3 months, he was declared the backend leader, responsible for critical failures, optimizations, reviews on all modifications to the backend source code, recruiting and onboarding new backend developers.
 
 He scaled the Firework server from 10 to 10000 requests/second, applying multiple optimization techniques. He wrote the cache system, responsible to keep the system stable while serving apps and websites of the biggest brazilian TV show on its highest peaks.
 
-One of his contributions to opensource code got the attention from Ericsson engineers. Later, he partnered with them to maintain packages used to power 2G, 3G, 4G and 5G networks, of companies such as AT&T, Deutche Telecom, China Telecom, Vodaphone, and many more. The packages are: https://github.com/Nordix/eredis_cluster and https://github.com/Nordix/eredis.
+One of his contributions to opensource code got the attention from Ericsson engineers. Later, he partnered with them to maintain packages used to power 2G, 3G, 4G and 5G networks, of companies such as AT&T, Deutche Telecom, China Telecom, Vodaphone, and many more. The packages are: [eredis](https://github.com/Nordix/eredis) and [eredis_cluster](https://github.com/Nordix/eredis_cluster).
 
 He has professional experience in Elixir, Phoenix, Erlang, Ruby, Rails, Linux, SQL, Redis, AWS ecosystem, Python and Javascript. He also knows server maintenance, but is more interested in reading and writing software.
-
-He has deep interest in Erlang/OTP, algorithms, optimization and machine learning.
 
 He is not an expert but have done something in: C, C#, Java, Lua, R, Android (Java), Ionic Framework, React, VueJS, Angular.
 
@@ -80,7 +78,7 @@ Company founded with former teachers to build projects using Ruby on Rails as ba
 `December 2016 - July 2017`
 **Teacher**, Le Wagon, Rio de Janeiro
 
-Le Wagon has been ranked as the best coding school in the world for the last 3 years. Alexandre was teacher at 2 bootcamps, where he understood and practiced different programming aspects, such as: databases, HTML/CSS, javascript and backend programming with Ruby on Rails. There is a photo of him teaching, on Slack's blog: https://slack.com/intl/en-br/blog/collaboration/le-wagon-coding-bootcamps-slack.
+Le Wagon has been ranked as the best coding school in the world for the last 3 years. Alexandre was teacher at 2 bootcamps, where he understood and practiced different programming aspects, such as: databases, HTML/CSS, javascript and backend programming with Ruby on Rails. There is a photo of him teaching, on [Slack's blog](https://slack.com/intl/en-br/blog/collaboration/le-wagon-coding-bootcamps-slack).
 
 
 `June 2015 - September 2016`
