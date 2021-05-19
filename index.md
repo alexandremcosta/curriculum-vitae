@@ -2,7 +2,7 @@
 
 ### Software Engineer
 
-<img src="avatar.jpeg" style="float: right; margin: 0 5% 0; border-radius: 10%; width: 20%" />
+<img src="avatar.jpeg" style="float: right; margin: -6em 5% 0; border-radius: 50%; box-shadow: 1px 1px 8px #666; width: 20%" />
 
 - [alexandremcost@gmail.com](mailto:alexandremcost@gmail.com)
 - [linkedin.com/in/alexandre-marangoni](https://www.linkedin.com/in/alexandre-marangoni)
