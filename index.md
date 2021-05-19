@@ -1,5 +1,8 @@
 # Alexandre Marangoni Costa
+
 ### Software Engineer
+
+<img src="avatar.jpeg" style="float: right; margin: 0 5% 0; border-radius: 10%; width: 20%" />
 
 - [alexandremcost@gmail.com](mailto:alexandremcost@gmail.com)
 - [linkedin.com/in/alexandre-marangoni](https://www.linkedin.com/in/alexandre-marangoni)
