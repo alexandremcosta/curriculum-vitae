@@ -1,7 +1,7 @@
 # Alexandre Marangoni Costa
 ## Software Engineer
 
-- alexandremcost@gmail.com  
+- [alexandremcost@gmail.com](mailto:alexandremcost@gmail.com)
 - [linkedin.com/in/alexandre-marangoni](https://www.linkedin.com/in/alexandre-marangoni)  
 - [github.com/alexandremcosta](https://github.com/alexandremcosta)
 
